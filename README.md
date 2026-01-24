@@ -12,6 +12,7 @@ I like to experiment, learn through trial and error, and improve through iterati
 - Enterprise systems & IT architecture
 - Digital transformation & process improvement
 - AI, automation, and data-driven decision-making
+- Prescriptive Analytics (Optimization)
 - Information security & digital resilience
 
 ## 📜 Certifications
